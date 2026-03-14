@@ -48,7 +48,7 @@ Confusion Matrix: Predicted Stay Predicted Chur Actual Stay 1148 107 Actual Chur
 
 💻 Installation & Setup
 
-1️⃣ Clone the repository git clone https://github.com/yourusername/churnscope.git cd churnscope 2️⃣ Install dependencies pip install flask numpy scikit-learn pandas 3️⃣ Run the application python app.py 4️⃣ Open in browser http://127.0.0.1:5000 🖥️ Application Interface
+1️⃣ Clone the repository git clone https://github.com/baishnabi1928/churnscope.git cd churnscope 2️⃣ Install dependencies pip install flask numpy scikit-learn pandas 3️⃣ Run the application python app.py 4️⃣ Open in browser http://127.0.0.1:5000 🖥️ Application Interface
 
 Main Components: Customer Input Form Risk Prediction Dashboard Model Comparison Page Feature Importance Visualization
 
